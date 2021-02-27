@@ -43,3 +43,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Mobili
+    uniqueID: 889255661
+    locked: 0
+  - name: Hud
+    uniqueID: 1082230623
+    locked: 0
